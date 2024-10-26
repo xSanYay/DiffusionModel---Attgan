@@ -22,7 +22,6 @@ pip install git+https://github.com/crowsonkb/k-diffusion
 mkdir checkpoints
 curl -L --http1.1 https://the-eye.eu/public/AI/models/v-diffusion/cc12m_1_cfg.pth > checkpoints/cc12m_1_cfg.pth
 
-![image](https://github.com/user-attachments/assets/42d0ece5-35a1-465e-9ce4-d77cbc2dcf2d)
 
 # Set your parameters
 prompt = 'Dog playing'
